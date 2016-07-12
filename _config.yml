@@ -1,0 +1,14 @@
+layout_spectrum: 0.8533620627131313
+typography_spectrum: 0.9090979502070695
+color:
+  brandStrength: 0.0938321438152343
+  lightness: 0.9381932062096894
+  saturation: 0.5310285536106676
+  rhythmicContrast: 0.5688758152537048
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: mi primera web
